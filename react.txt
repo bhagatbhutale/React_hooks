@@ -20,6 +20,17 @@ useState in a react hook, which creates an "state variable".
 Which helps us to track state in components & update the user interface and state changes.
 
 
+2. UseEffect -->
+the useEffect Hook allows you to perform side effect in your components.
+example 
+- fetching data from api
+- Direct Updating dom 
+- used setTimeout and setInterval
+
+3. useRef --> 
+that allows us to create mutable variables which will not re-render the components
+- useRef is also use for accesing DOM elements
+
 
 
 
