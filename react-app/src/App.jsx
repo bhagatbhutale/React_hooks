@@ -2,6 +2,7 @@ import React from 'react'
 
 import UseEffect from './USEEFFECT';
 import USEREF from './USEREF';
+import USEMEMO from './USEMEMO';
 // import { useState } from 'react'
 
 const App = () => {
@@ -29,7 +30,8 @@ const App = () => {
   return (
     <>
       {/* <UseEffect /> */}
-      <USEREF />
+      {/* <USEREF /> */}
+      <USEMEMO />
 
     </>
   );
